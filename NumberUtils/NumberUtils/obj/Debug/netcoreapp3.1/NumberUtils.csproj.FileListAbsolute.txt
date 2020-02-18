@@ -1,0 +1,11 @@
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\obj\Debug\netcoreapp3.1\NumberUtils.csprojAssemblyReference.cache
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\obj\Debug\netcoreapp3.1\NumberUtils.AssemblyInfoInputs.cache
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\obj\Debug\netcoreapp3.1\NumberUtils.AssemblyInfo.cs
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\bin\Debug\netcoreapp3.1\NumberUtils.exe
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\bin\Debug\netcoreapp3.1\NumberUtils.deps.json
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\bin\Debug\netcoreapp3.1\NumberUtils.runtimeconfig.json
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\bin\Debug\netcoreapp3.1\NumberUtils.runtimeconfig.dev.json
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\bin\Debug\netcoreapp3.1\NumberUtils.dll
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\bin\Debug\netcoreapp3.1\NumberUtils.pdb
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\obj\Debug\netcoreapp3.1\NumberUtils.dll
+C:\Users\auste\source\repos\NumberUtils\NumberUtils\obj\Debug\netcoreapp3.1\NumberUtils.pdb
