@@ -29,6 +29,11 @@ namespace NumberUtils
             return Num1 + Num2;
         }
 
+        public static int AddInt(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+
         public static int SubtractInt()
         {
             Console.WriteLine("Subtract 2 integers");
@@ -55,6 +60,42 @@ namespace NumberUtils
             return Num1 - Num2;
         }
 
+        public static int SubtractInt(int num1, int num2)
+        {
+            return num1 - num2;
+        }
+
+
+        public static int MaxInt(int[] array)
+        {
+            int max = -2147483646;
+
+            foreach (int i in array)
+            {
+                if(max < i)
+                {
+                    max = i;
+                }
+            }
+
+            return max;
+        }
+
+        public static int MinInt(int[] array)
+        {
+            int min = 2147483647;
+
+            foreach (int i in array)
+            {
+                if(min > i)
+                {
+                    min = i;
+                }
+            }
+
+            return min;
+        }
+
         public static void Main()
         {
             Console.WriteLine("Your sum is " + AddInt());
@@ -62,6 +103,40 @@ namespace NumberUtils
             Console.WriteLine();
 
             Console.WriteLine("Your difference is " + SubtractInt());
+
+            Console.WriteLine();
+
+            Console.WriteLine("156 + 210 = " + AddInt(156, 210));
+
+            Console.WriteLine();
+
+            Console.WriteLine("210 - 200 = " + SubtractInt(210, 200));
+
+            Console.WriteLine();
+
+            int[] array = { 126, 200, 123484531, - 16, 345674 };
+
+            Console.Write("The max in ");
+
+            foreach (int i in array)
+            {
+                Console.Write(i + ",");
+            }
+
+            Console.Write(" is " + MaxInt(array));
+
+            Console.WriteLine();
+
+            Console.Write("The min in ");
+
+            foreach (int i in array)
+            {
+                Console.Write(i + ",");
+            }
+
+            Console.Write(" is " + MinInt(array));
+
+            Console.WriteLine();
         }
     }
 }

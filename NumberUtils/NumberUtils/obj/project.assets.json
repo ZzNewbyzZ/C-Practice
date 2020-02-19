@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\auste\\source\\repos\\NumberUtils\\NumberUtils\\NumberUtils.csproj",
+      "projectUniqueName": "C:\\Users\\auste\\source\\repos\\C#\\NumberUtils\\NumberUtils\\NumberUtils.csproj",
       "projectName": "NumberUtils",
-      "projectPath": "C:\\Users\\auste\\source\\repos\\NumberUtils\\NumberUtils\\NumberUtils.csproj",
+      "projectPath": "C:\\Users\\auste\\source\\repos\\C#\\NumberUtils\\NumberUtils\\NumberUtils.csproj",
       "packagesPath": "C:\\Users\\auste\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\auste\\source\\repos\\NumberUtils\\NumberUtils\\obj\\",
+      "outputPath": "C:\\Users\\auste\\source\\repos\\C#\\NumberUtils\\NumberUtils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
